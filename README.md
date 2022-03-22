@@ -27,7 +27,7 @@ An Telegram Bot By [@Navya](https://t.me/WTF_NAVYA) To Stream Videos in Telegram
 
 ### Railway (Recommended)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Iag-qY?referralCode=C3Eb1N)
+
 
 
 ### Heroku (Don't Complain)
