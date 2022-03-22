@@ -5,3 +5,4 @@ ffmpeg-python
 python-dotenv
 youtube_search_python==1.4.9
 git+https://github.com/AsmSafone/pyrogram@master
+pytgcalls==3.0.0.dev21
