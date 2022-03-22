@@ -28,7 +28,7 @@ An Telegram Bot By [@Navya](https://t.me/WTF_NAVYA) To Stream Videos in Telegram
 ### Railway (Recommended)
 
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Navya-developer/VideoPlayerBot&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION,REPLY_MESSAGE,UPDATES_CHANNEL,SUPPORT_GROUP,SUDO_USERS,REPLY_MESSAGE)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Navya-developer/VideoPlayerBot&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION,REPLY_MESSAGE,UPDATES_CHANNEL,SUPPORT_GROUP,SUDO_USERS,REPLY_MESSAGE,ASSISTANT_NAME)
 
 
 ### Heroku (Don't Complain)
